@@ -1,0 +1,6 @@
+{
+  "name": "Login Authentication App",
+  "description": "A modern, highly polished web-based authentication application featuring responsive login and registration forms, real-time input validation, secure simulated session dashboards, password visibility toggles, and reactive error feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
